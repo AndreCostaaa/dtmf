@@ -63,7 +63,7 @@ This implementation assumes:
 3. A **0.05s pause** between multiple keypresses for the same character.
 
 ## Report
-The report for this project's, in french, can be found [here]("./docs/Report.pdf")
+The report for this project's, in french, can be found [here](docs/Report.pdf)
 
 
 ## Disclaimer
